@@ -87,6 +87,7 @@ h1 {
     padding-left: 182.455px;
     padding-top: 10px;
     color: #777;
+    padding-bottom: 10px;
 }
 
 h2 {
@@ -94,6 +95,7 @@ h2 {
     float: left;
     padding-top: 10px;
     color: #777;
+    padding-bottom: 10px;
 }
 
 h3 {
@@ -103,11 +105,12 @@ h3 {
     padding-right: 182.455px;
     padding-top: 10px;
     color: #777;
+    padding-bottom: 10px;
 }
 
 p {
 	background-color: #ebebeb;
-    margin-top: 10px;
+    margin-top: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
     width: 435px;
@@ -118,7 +121,7 @@ p {
 #header-div {
 	margin-top: 10px;
     height: 18px;
-    padding-top: 10px;
+    padding-top: 0px;
     padding-bottom: 10px;
     background-color: #ebebeb;
     width: 435px;
